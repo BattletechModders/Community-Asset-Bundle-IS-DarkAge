@@ -1,0 +1,45 @@
+Attributions for CAB-IS-DarkAge
+
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
+
+Lt. Shade
+Models:
+Lament
+
+Ion Raptor
+Models:
+Ion Dolorie
+Ion Bruin
+Neanderthal
+
+Transient74
+Models:
+Bruin
+
+Piranha Games, Inc.
+Models:
+Zeus X
+
+
+SirMortimer and Transient
+Models:
+Carronade
+Ghost
+Gun
+Gun 2 (reimport of the Gun to fix an issue with the arms)
+
+
+Vossiewulf and Transient
+Models:
+Hitotsume Kozo
+
+
+Momma Leli and Transient74
+Models:
+Agrotera
+
+
+OnlyQ, Transient
+Models:
+Eris
+Hel
