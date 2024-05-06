@@ -2,6 +2,10 @@ Changelog for CAB-IS-DarkAge
 
 -----------------------------------------------------
 
+1.1
+
+Added the Diomede 
+
 1.0
 
 Initial Commit
