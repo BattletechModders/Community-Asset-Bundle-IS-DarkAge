@@ -4,7 +4,7 @@ This document will detail the various contributors to this collection of communi
 
 Lt. Shade
 Models:
-Lament
+Lament (updated)
 Diomede
 
 Ion Raptor
